@@ -71,3 +71,5 @@ tf.plan.out
 *.swp
 *.xlsx
 *.csv
+*.out
+*.zip
